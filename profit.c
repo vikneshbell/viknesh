@@ -7,5 +7,5 @@ void main()
     printf("Enter the original cost of articles:");
     scanf("%f",&b);
     c=b-a;
-    printf("the profite of that articles is:%f",c);
+    printf("the profit of that articles is:%f",c);
 }
